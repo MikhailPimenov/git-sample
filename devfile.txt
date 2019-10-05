@@ -1,1 +1,5 @@
 This is new for commit 3 in master.
+
+Hello Git my change for remote repository
+Hello first change for remote repository
+
