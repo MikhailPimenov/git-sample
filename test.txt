@@ -6,3 +6,4 @@ Add one another new line.
  123
 It's new line.
 Add new line. 123 And more changes for rebase
+New line for commit - 4 in dev.
