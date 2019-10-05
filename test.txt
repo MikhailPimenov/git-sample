@@ -5,4 +5,4 @@ Hello Git branch
 
  123
 It's new line.
-Add new line. 123
+Add new line. 123 And more changes for rebase
