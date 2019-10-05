@@ -5,3 +5,5 @@ Hello Git
  123
 It's new line.
 Add new line. 123
+
+Changes for newbranch for test of remote repository.
